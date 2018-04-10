@@ -1,0 +1,23 @@
+{
+  "name": "jwt-test",
+  "version": "1.0.0",
+  "description": "json web token test. https://github.com/auth0/node-jsonwebtoken",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albin3/jwt-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albin3/jwt-test/issues"
+  },
+  "homepage": "https://github.com/albin3/jwt-test#readme",
+  "dependencies": {
+    "jsonwebtoken": "^8.2.1"
+  }
+}
